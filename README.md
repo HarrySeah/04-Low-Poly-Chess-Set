@@ -1,4 +1,4 @@
-## Learn from [here](https://github.com/CompleteBlenderCreator/04-Low-Poly-Chess-Set)
+## Learn from [here](https://github.com/CompleteBlenderCreator/04-Low-Poly-Chess-Set) 
 
 ### Section 4 Introduction ###
 
